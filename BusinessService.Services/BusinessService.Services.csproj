@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessService.Data\BusinessService.Data.csproj" />
+    <ProjectReference Include="..\BusinessService.Domain\BusinessService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

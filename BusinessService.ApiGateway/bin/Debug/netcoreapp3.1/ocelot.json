@@ -1,0 +1,31 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:44311"
+  },
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/v1/Customers/GetAllCustomers",
+      "UpstreamPathTemplate": "/Customers/GetAllCustomers",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44379
+        }
+      ],
+      "DownstreamScheme": "https"
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Quotes/GetAllQuotes",
+      "UpstreamPathTemplate": "/Quotes/GetAllQuotes",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44389
+        }
+      ],
+      "DownstreamScheme": "https"
+    }
+  ]
+}

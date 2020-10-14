@@ -1,0 +1,9 @@
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\bin\Debug\netstandard2.0\BusinessService.Domain.deps.json
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\bin\Debug\netstandard2.0\BusinessService.Domain.dll
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\obj\Debug\netstandard2.0\BusinessService.Domain.csprojAssemblyReference.cache
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\obj\Debug\netstandard2.0\BusinessService.Domain.AssemblyInfoInputs.cache
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\obj\Debug\netstandard2.0\BusinessService.Domain.AssemblyInfo.cs
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\bin\Debug\netstandard2.0\BusinessService.Domain.pdb
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\obj\Debug\netstandard2.0\BusinessService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\obj\Debug\netstandard2.0\BusinessService.Domain.dll
+C:\Users\dotnetcloudmc100\source\repos\WMS\BusinessService.Domain\obj\Debug\netstandard2.0\BusinessService.Domain.pdb
